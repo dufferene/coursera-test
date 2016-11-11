@@ -1,0 +1,18 @@
+.main-content < .container {
+	margin: 20px;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+.main-content {
+	margin: 10px;
+	background: #ffa07a;
+	text-align: justify;
+}
+
+.main-content h2{
+	font-size: 1.5em;
+	font-weight: bold;
+}
